@@ -1,0 +1,66 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Transportation Engineering"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ]
+  ],
+  "legacy_uid": "d4072cb7-1b7b-bb49-31f9-bf66a13e4051",
+  "instructors": {
+    "content": [
+      "164c52e6-4324-f64a-a9e1-97289918492a",
+      "56bfbcd0-cc3e-8b93-75cd-510980b15681"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1747d58e-11d3-8e30-fa94-4e969edc4752",
+    "website": "1-253j-transportation-policy-and-environmental-limits-spring-2004"
+  },
+  "course_title": "Transportation Policy and Environmental Limits",
+  "course_description": "Through a combination of lectures, cases, and class discussions this subject examines the economic and political conflict between transportation and the environment. It investigates the role of government regulation, green business and transportation policy as facilitators of economic development and environmental sustainability. It analyzes a variety of international policy problems including government-business relations; the role of interest groups, non-governmental organizations, and the public and media in the regulation of the automobile; sustainable development; global warming; the politics of risk and siting of transport facilities; environmental justice; equity; and transportation and public health in the urban metropolis. It provides students with an opportunity to apply transportation and planning methods to developing policy alternatives in the context of environmental politics.\n",
+  "department_numbers": [
+    "1",
+    "11",
+    "ESD"
+  ],
+  "extra_course_numbers": "11.543J,ESD.222J",
+  "primary_course_number": "1.253J",
+  "course_image_thumbnail": {
+    "content": "a6242c07-5922-e119-b5a2-c495fbc8353f",
+    "website": "1-253j-transportation-policy-and-environmental-limits-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "078b7b0f-4aa1-4412-b127-e32146655e47",
+  "site_short_id": "1.253j-spring-2004",
+  "site_url_path": "courses/1-253j-transportation-policy-and-environmental-limits-spring-2004",
+  "title": "Course Metadata"
+}
