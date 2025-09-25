@@ -4,6 +4,8 @@ description: Resource containing Assignment 1 Notes.
 file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/ddf3ed0310af8a8a522ed8490da0cfdb_assn1notes.pdf
 file_size: 126613
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
