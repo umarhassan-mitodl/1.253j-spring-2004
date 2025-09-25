@@ -4,6 +4,8 @@ description: Lecture presentation by Joe Coughlin, one of the course instructors
 file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/dd18b1f57dc23cb5ba8aafbc78728778_lec7joe.pdf
 file_size: 95103
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
