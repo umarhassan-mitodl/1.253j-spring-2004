@@ -100,7 +100,7 @@ Kuttner, R. *Everything For Sale: The Limits of Markets.* New York: Alfred A. Kn
 {{< tdclose >}}{{< tdopen >}}
 Environmental Justice: The Equitable Distribution of Transportation Costs and Benefits
 {{< tdclose >}}{{< tdopen >}}
-Bullard, R. "{{% resource_link "2e9fee1e-ac62-4690-a7d8-103217a18e69" "Environmentalism and Social Justice" %}}." pp. 1-20, and "{{% resource_link "44d75113-f78b-4cb9-a5f0-285e6210d992" "Environmentalism as a Working Model" %}}." pp. 113-126. In *US Department of Transportation Order on Environmental Justice*.
+Bullard, R. "[Environmentalism and Social Justice](http://www.fhwa.dot.gov/environment/environmental_justice/ej_at_dot/index.cfm)." pp. 1-20, and "[Environmentalism as a Working Model](http://www.fhwa.dot.gov/legsregs/directives/orders/6640_23.htm)." pp. 113-126. In *US Department of Transportation Order on Environmental Justice*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
