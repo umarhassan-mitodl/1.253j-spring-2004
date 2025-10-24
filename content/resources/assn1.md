@@ -5,8 +5,6 @@ description: Resource containing Assignment 1 on Building the ?Super 7? Expressw
 file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/cec9564f84ce14985ee7f2a926ffbdab_assn1.pdf
 file_size: 101430
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

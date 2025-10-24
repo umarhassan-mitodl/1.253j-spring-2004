@@ -4,8 +4,6 @@ description: Lecture presentation by Fred Salvucci, one of the course instructor
 file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/2ecee033c6a4baf8f2740bddfa1e5700_lec7fred.pdf
 file_size: 54401
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

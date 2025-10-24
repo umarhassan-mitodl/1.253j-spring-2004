@@ -5,8 +5,6 @@ description: 'Resource containing Assignment 3 on Low Emission Vehicles: The Pur
 file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/438bbc2f7766bac1b5abfd6ee1f1edb6_assn3.pdf
 file_size: 101256
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

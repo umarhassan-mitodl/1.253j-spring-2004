@@ -5,8 +5,6 @@ description: 'Resource containing lecture notes by Sonia Hamel for Lecture 6: Ob
 file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/b274fc7b99d075d8e544728149799074_lec6soniahamel.pdf
 file_size: 811625
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
